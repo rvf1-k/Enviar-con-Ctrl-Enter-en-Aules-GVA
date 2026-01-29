@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Enviar con Ctrl+Enter en Aules GVA
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      2.0
 // @description  Enviar tareas usando con Ctrl + Enter en Aules de la Generalitat Valenciana
 // @author       rvf1-k
 // @match        https://aules.edu.gva.es/*/mod/assign/view.php*
