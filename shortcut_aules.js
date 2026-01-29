@@ -8,6 +8,8 @@
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // @icon         https://portal.edu.gva.es/aules/wp-content/uploads/sites/644/2024/07/cropped-Imagotipo_Aules-32x32.png
 // @source       https://github.com/rvf1-k/Enviar-con-Ctrl-Enter-en-Aules-GVA
+// @updateURL    https://github.com/rvf1-k/Enviar-con-Ctrl-Enter-en-Aules-GVA/blob/main/shortcut_aules.js
+// @downloadURL  https://github.com/rvf1-k/Enviar-con-Ctrl-Enter-en-Aules-GVA/blob/main/shortcut_aules.js
 // @grant        none
 // ==/UserScript==
 (function () {
