@@ -11,6 +11,7 @@
 // @updateURL    https://github.com/rvf1-k/Enviar-con-Ctrl-Enter-en-Aules-GVA/blob/main/shortcut_aules.js
 // @downloadURL  https://github.com/rvf1-k/Enviar-con-Ctrl-Enter-en-Aules-GVA/blob/main/shortcut_aules.js
 // @grant        none
+// @run-at       document-start
 // ==/UserScript==
 (function () {
     'use strict';
