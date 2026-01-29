@@ -3,7 +3,7 @@
 Script en Tampermonkey para enviar tareas usando con Ctrl + Enter en Aules de la Generalitat Valenciana
 
 > [!caution]
-> Este script no ha sido testeado en todas las secciones de niveles de enseñanza unicamente en [FP Presencial](https://aules.edu.gva.es/fp/my/).
+> Este script no ha sido testeado en todas las secciones de niveles de enseñanza unicamente en [FP Presencial](https://aules.edu.gva.es/fp/my/) y [ESO](https://portal.edu.gva.es/aules/eso/).
 
 ## Cómo usar🙋‍♂️
 
