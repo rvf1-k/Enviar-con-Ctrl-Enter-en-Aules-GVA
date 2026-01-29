@@ -8,7 +8,7 @@ Script en Tampermonkey para enviar tareas usando con Ctrl + Enter en Aules de la
 ## Cómo usar🙋‍♂️
 
 1. Instala [Tampermonkey](https://www.tampermonkey.net/) o [Violentmonkey](https://violentmonkey.github.io/) en tu navegador.
-2. Crea un nuevo UserScript y pega el contenido de [`shortcut_aules.js`](https://github.com/rvf1-k/Enviar-con-Ctrl-Enter-en-Aules-GVA/blob/main/shortcut_aules.js).
+2. Haz click aquí para [instalar](https://github.com/rvf1-k/Enviar-con-Ctrl-Enter-en-Aules-GVA/raw/refs/heads/main/shortcut_aules.user.js) o dentro del archivo [`shortcut_aules.user.js`](https://github.com/rvf1-k/Enviar-con-Ctrl-Enter-en-Aules-GVA/blob/main/shortcut_aules.user.js) pulsa `Raw`.
 3. Guarda el script y recarga [Aules](https://aules.edu.gva.es/).
 4. El botón de `Penja este fitxer` y `Guarda els canvis` se ejecutarán al pulsar Ctrl + Enter:
 
